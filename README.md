@@ -1,0 +1,2 @@
+-A basic frontend using HTML
+-Integrated a basic chatbot that uses openAI.
